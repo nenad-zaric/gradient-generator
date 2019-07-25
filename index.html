@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Gradient Generator</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Gradient Generator</h1>
+      <h2>Pick colors:</h2>
+      <input type="color" value="#A60067" name="" id="color1" class="color" />
+      <input type="color" value="#6153CC" name="" id="color2" class="color" />
+      <br />
+
+      <input type="radio" name="angle" value="to right" checked /> To Right
+      <input type="radio" name="angle" value="to left" /> To Left
+      <input type="radio" name="angle" value="to bottom" /> To Bottom
+      <input type="radio" name="angle" value="to top" /> To Top
+
+      <br />
+      <button id="generate">Generate</button>
+      <h3>Copy this to CSS:</h3>
+      <h4 id="gradient">linear-gradient(to right, #a60067, #6153cc)</h4>
+    </div>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
