@@ -5,11 +5,6 @@
   </a>
 
   <h3 align="center">Gradient Generator</h3>
-
-  <p align="center">
-    Simple gradient generator webapp
-    <br />
-  </p>
 </p>
 
 
