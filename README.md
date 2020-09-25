@@ -1,1 +1,46 @@
-# gradient-generator
+<br />
+<p align="center">
+  <a href="https://github.com/nenad-zaric/gradient-generator">
+    <img src="images/logo.png" alt="Logo" width="256" height="128">
+  </a>
+
+  <h3 align="center">Gradient Generator</h3>
+
+  <p align="center">
+    Simple gradient generator webapp
+    <br />
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+* [Contact](#contact)
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Gradyent is a simple gradient generator i made for my own use.
+
+
+### Built With
+
+* HTML
+* CSS
+* JavaScript
+
+
+<!-- CONTACT -->
+## Contact
+
+Nenad Zaric - [@AnunnakiNenad](https://twitter.com/AnunnakiNenad) - nzaric31@gmail.com
+
+Project Link: [https://github.com/nenad-zaric/gradient-generator](https://github.com/nenad-zaric/gradient-generator)
+
