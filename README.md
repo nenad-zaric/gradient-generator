@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/nenad-zaric/gradient-generator">
-    <img src="images/logo.png" alt="Logo" width="256" height="128">
+    <img src="images/logo.png" alt="Logo" width="512" height="158">
   </a>
 
   <h3 align="center">Gradient Generator</h3>
